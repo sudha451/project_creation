@@ -1,0 +1,224 @@
+*{
+	padding: 0px;
+	margin:0px;
+	margin-top:0rem;
+}
+.navbar li
+{
+	list-style-type: none;
+	float: left;
+	overflow: hidden;
+	display: relative;
+
+}
+
+.navbar
+{
+	position: fixed;
+	background-color: yellow;
+	height: 5rem;
+	width: 100%;
+
+}
+
+.nav1
+{
+	background-image: url("C:/Users/HP/Desktop/Y logo.png");
+	width: 105px;
+	height: 23px;
+	background-size: cover;
+	margin-left: 2rem;
+	margin-top: 1rem;
+	position: relative;
+}
+.nav-input
+{
+	width: 33rem;
+	height: 2.4rem; 
+     margin-left: 11rem;
+     border-top-left-radius: 2.5rem;
+     border-bottom-left-radius: 2.5rem;
+     border:0.1rem solid grey;
+     margin-top: 0.5rem;
+}
+.fa-bars
+{
+	margin-left: 2rem;
+	margin-top: 1rem;
+	
+}
+
+.nav-ver1
+{
+	width: 13.7rem;
+	height: 45rem;
+	         background-color: white;
+	padding-left: 0.7rem;
+	margin-top: 5rem;
+	overflow: auto;
+	position: fixed;
+
+
+}
+.nav-ver2
+{   
+	margin-left:17rem;
+	width: 66.5rem;
+	height: 600vh;	
+	            /*background-color: yellow;*/
+	padding: 0px;
+	float: left;
+	margin-top: 2rem;
+	overflow: auto;
+	/*display: flex;
+	justify-content: space-evenly;*/
+
+}
+
+.ver1
+{
+	background-color: white;
+	padding: 4px; 
+	width: 13rem;
+	height: 2.80rem; 
+	border-radius: 0.7rem;
+    border:1px solid white; 
+	padding-right: 5.3rem;
+	font-size: 0.9rem;
+}
+
+button:hover
+{
+	background-color: #dbdbdb;
+}
+
+.big-ver
+{
+	float: left;
+	overflow: hidden;
+	display: flex;
+}
+
+.ver11
+{
+	background-color: white;
+	padding-left: 10px; 
+	width: 13rem;
+	height: 2.80rem; 
+	border-radius: 0.7rem;
+    border:1px solid white; 
+	padding-right: 3.2rem;
+	font-size: 0.9rem;
+}
+
+
+.ver12
+{
+	background-color: white;
+	width: 13rem;
+	height: 2.80rem; 
+	border-radius: 0.7rem;
+    border:1px solid white; 
+	padding-right: 5.1rem;
+	font-size:0.9rem;
+	}
+
+
+.ver13
+{
+	background-color: white;
+	padding: 4px; 
+	width: 13rem;
+	height: 2.80rem; 
+	border-radius: 0.7rem;
+    border:1px solid white;
+	font-size: 0.9rem;
+	display: flex;
+	margin-left: 0.8rem;
+}
+
+.ver14
+{
+	color:blue;
+	border:1px solid blue;
+	 border-radius: 1rem;
+	 padding: 0.4rem;
+	width: 5.1rem;
+	margin-left: 1rem;
+	padding-left: 0.8rem;
+}
+
+.ver15
+{
+ 	width: 12rem;
+ 	margin-left:1.3rem;
+ 	font-size:1rem;
+}
+.img1
+{   background-image: url('C:/Users/HP/Desktop/ads.png');
+	width: 22rem;
+	height: 12rem;
+	background-size: cover;	
+	margin-left: 15px;	
+	border-radius: 12px;
+	/*margin-bottom: 5rem;*/
+}
+.img11
+{
+	 background-image: url("C:/Users/HP/Desktop/R.jpg");
+	 width: 2.4rem;
+	 height: 2.4rem;
+	 background-size: cover;
+	 margin-left: 1.3rem;
+	 margin-top: 0.7rem;
+	 position:absolute;
+}
+.img12
+{    margin-top: 0.7rem;
+	margin-left: 4rem;
+	font-size: 1.1rem;
+	font-weight: bold;
+	position:absolute;
+}
+
+.img2
+{   background-image: url('C:/Users/HP/Desktop/ads.png');
+	width:22rem;
+	height: 12rem;	
+}
+
+.imgg
+{
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 4rem;
+
+}
+
+.fa-ellipsis-vertical
+{
+	margin-left: 21.4rem;
+	/*display: absolute;	*/
+	margin-top: 0.9rem;	
+}
+
+.img123
+{
+	margin-left: 6rem;
+	color:grey;
+	/*margin-top: 3rem;*/
+	position: relative;									
+}
+.img-bar
+{
+	overflow: auto;	
+}
+.img12-button
+{
+	background-color: skyblue;
+	width: 15rem;
+	height: 2rem;
+	border-radius: 1rem;
+	margin-top: 0.7rem; 
+	color:blue;
+}
